@@ -2,6 +2,9 @@
 This is a Python script used for looking up the historical price action of your former investment holdings during the time that you owned them.
 The program then generates a PDF report with plots of the price action during the time period (plus a little extra) in which you held those investments.
 
+For example:
+![Image](Images/Example_plot.png?raw=true)
+
 ### Motivation
 There are no brokers that I know of, Hargreaves Lansdown, Trading 212, etc. that provide an overview of price action of your previous investments.
 It is always interesting to see the full picture of how an investment has performed while you held it. 
